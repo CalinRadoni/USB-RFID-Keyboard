@@ -1,0 +1,10 @@
+
+0. Document the formatting of the text that can be programmed in RFID cards.
+
+1. Add a build number and increment it when building. See:
+- http://docs.platformio.org/en/stable/projectconf.html#extra-script
+- http://www.scons.org/doc/production/HTML/scons-user.html#chap-environments
+
+2. Add a define regarding the number of WS2812B LEDs attached.
+
+3. Make a drawing of the schematic and publish it.
