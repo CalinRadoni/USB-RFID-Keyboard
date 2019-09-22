@@ -1,6 +1,14 @@
 
 # USB-RFID-Keyboard
 
+## Note
+
+This was a *toy* project, somehow a proof-of-concept.
+
+I have no use for it so it is archived.
+
+## Description
+
 This device behave like a USB Keyboard and a USB Serial port.
 As USB Keyboard, when a programmed card is read:
 - a formatted text, programmed in the RFID card, is written;

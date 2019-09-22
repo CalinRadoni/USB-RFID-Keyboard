@@ -1,5 +1,12 @@
+# ignore build directory
 .pioenvs
+# and files that will be regenerated
 .clang_complete
 .gcc-flags.json
-build.bat
-rebuild.bat
+
+# ignore batch files used for manual build
+/build.bat
+/rebuild.bat
+
+# ignore KiCad backup files
+/hardware/*.bak
